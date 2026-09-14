@@ -14,7 +14,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+Frontend+Developer;React+Developer;JavaScript+%26+TypeScript+Developer;Frontend+Web+Developer"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Web+Dev+Learner;Building+with+HTML%2C+CSS%2C+JavaScript+%26+React;Currently+exploring+modern+web+frameworks;Documenting+my+journey+from+HTML+to+Full-Stack"
     alt="Typing SVG"
   />
 </p>
