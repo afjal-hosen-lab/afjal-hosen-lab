@@ -1,10 +1,22 @@
-<div align="center">
-👋 Hi, I'm Afjal Hosen
+<p align="center">
+  <img
+    src="https://github.com/afjal-hosen-lab/README.md/blob/main/Gemini_Generated_Image_yz5vrvyz5vrvyz5v.jpg"
+    alt="Afjal Hosen Banner"
+    width="100%"
+  />
+</p>
 
-</div>
+<br>
+
+<h1 align="center">
+  👋 Hi, I'm Afjal Hosen
+</h1>
 
 <p align="center">
-  <img src="https://github.com/afjal-hosen-lab/README.md/blob/main/Gemini_Generated_Image_yz5vrvyz5vrvyz5v.jpg" alt="Touhidur Zaman Banner" width="100%">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Passionate+Frontend+Developer;React+Developer;JavaScript+%26+TypeScript+Developer;Frontend+Web+Developer"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
