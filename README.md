@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/afjal-hosen-lab/README.md/blob/main/Gemini_Generated_Image_yz5vrvyz5vrvyz5v.jpg"
+    src="https://github.com/afjal-hosen-lab/afjal-hosen-lab/blob/main/ChatGPT%20Image%20Sep%2014%2C%202026%2C%2003_39_11%20PM.png"
     alt="Afjal Hosen Banner"
     width="100%"
   />
