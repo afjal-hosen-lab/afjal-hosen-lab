@@ -108,7 +108,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=touhidcodes&theme=github-compact&hide_border=true"
+    src="https://raw.githubusercontent.com/afjal-hosen-lab/afjal-hosen-lab/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Graph"
     width="100%"
   />
